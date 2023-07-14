@@ -1,0 +1,11 @@
+The conservation of a natural ecosystem implies proposing non-invasive technological solutions to analyze and detect the health of its species. 
+For this, animal identification based on acoustic parameters is a considerable advantage, such as less time, less cost and harmless to the habitat [1]. 
+Acoustic data processing can be done manually by an expert; however, it is a procedure that requires a great deal of time and effort to process even small volumes of data [2].
+Consequently, for the analysis of the audio information, automatic methodologies capable of detecting and identifying species in the records are required [3–7]. 
+
+Therefore, ecoacoustics is considered as an efficient alternative that enables the analysis of an ecosystem through the processing of multiple recordings that, 
+when analyzed with artificial intelligence techniques, it is possible to identify changes in the environment. 
+Here, we propose this software based on an unsupervised artificial intelligence algorithm and which is constituted as a practical tool for monitoring an ecosystem and automatic recognition of species [8]. 
+Additionally, the software allows the analysis of a large amount of data from recordings that contribute to the knowledge of the state of biodiversity. 
+The functionality of this software means that any researcher can quickly classified sounds for geophony, biophony or anthropophony identification studies. 
+The free/open-source software for automatic species recognition based on unsupervised algorithms also means that anybody can use/modify the software for fit their research needs. 
